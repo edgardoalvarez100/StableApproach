@@ -5,8 +5,8 @@
   },
   "va":{
     "report_server":{
-      "enabled": false,
-      "host": "api.stableapproach.net",
+      "enabled": enabled,
+      "host": "panel.grupolatamvirtual.org",
       "target": "/report"
     },
     "aircraft_profiles":{
