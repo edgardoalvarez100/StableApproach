@@ -5,9 +5,9 @@
   },
   "va":{
     "report_server":{
-      "enabled": enabled,
+      "enabled": true,
       "host": "panel.grupolatamvirtual.org",
-      "target": "/report"
+      "target": "/dstable"
     },
     "aircraft_profiles":{
       "use_custom": false,
